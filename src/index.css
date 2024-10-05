@@ -85,25 +85,25 @@ body {
 }
 
 .construction {
-  background: url(/images/homeimage/construction.jpg);
+  background: url(/images/homeImage/construction.jpg);
   background-position: center center;
   background-size: cover;
 }
 
 .fire-fighting {
-  background: url(/images/homeimage/fire-fighting.jpg);
+  background: url(/images/homeImage/fire-fighting.jpg);
   background-position: center center;
   background-size: cover;
 }
 
 .machinery {
-  background: url(/images/homeimage/machinery.jpg);
+  background: url(/images/homeImage/machinery.jpg);
   background-position: center center;
   background-size: cover;
 }
 
 .electric {
-  background: url(/images/homeimage/electric.png);
+  background: url(/images/homeImage/electric.png);
   background-position: center center;
   background-size: cover;
 }

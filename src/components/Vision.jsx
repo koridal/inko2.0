@@ -1,5 +1,5 @@
 import { DIVERSITY, INTEGRITY, MULTI_PROCESS } from "./../constants/index";
-import visionImg from "/images/homeimage/visionImg.jpg";
+import visionImg from "/images/homeImage/visionImg.jpg";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({

@@ -1,4 +1,4 @@
-import AboutImg from "/images/homeimage/excavator.jpeg"
+import AboutImg from "/images/homeImage/excavator.jpeg"
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -12,7 +12,7 @@ const container = (delay) => ({
 
 const HomeAbout = () => {
 	return (
-		<div className="pb-4 border-b border-b-neutral-900 lg:mb-35">
+		<div className="pb-4 lg:mb-35">
 			<div className="flex flex-wrap">
       <div className='flex items-center justify-center w-full mt-10 mb-10'>
           <motion.h1 

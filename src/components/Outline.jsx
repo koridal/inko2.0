@@ -1,7 +1,7 @@
 import { COMPANY_INTRO, HISTORY } from "./../constants/index";
-import Outline from "/images/homeimage/history.png";
+import Outline from "/images/homeImage/history.png";
 import { motion } from "framer-motion";
-import CEO from "/images/homeimage/ceo_small.jpg";
+import CEO from "/images/homeImage/ceo_small.jpg";
 import { DropdownDivider } from "flowbite-react";
 
 const container = (delay) => ({

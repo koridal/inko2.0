@@ -40,7 +40,7 @@ const ElectricMain = () => {
           />
         </div>
       </div>
-      <div className="flex flex-wrap max-w-6xl mt-10">
+      <div className="flex flex-wrap w-full mt-10">
         <div className="w-full mb-6 lg:w-1/2">
           <div className="flex justify-center mb-2">
             <motion.img

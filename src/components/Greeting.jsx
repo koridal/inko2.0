@@ -1,5 +1,5 @@
 import { KNOW_HOW, INDUSTRY, TRUST, LEADING_COMPANY } from "./../constants/index";
-import greetingImg from "/images/homeimage/greetingImg.jpg";
+import greetingImg from "/images/homeImage/greetingImg.jpg";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({

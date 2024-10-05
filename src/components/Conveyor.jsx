@@ -51,7 +51,7 @@ const Conveyor = () => {
             transition={{ duration: 0.5 }}
             src="/images/machinery/conveyor-3.jpeg"
             alt="conveyor-3"
-            className="w-[500px] rounded-3xl px-2"
+            className="w-[500px] rounded-3xl px-2 shadow-"
           />
         </div>
       </div>
@@ -65,7 +65,7 @@ const Conveyor = () => {
               transition={{ duration: 1 }}
               src="/images/machinery/conveyor-1.png"
               alt="conveyor-1"
-              className="w-[500px] rounded-3xl px-2"
+              className="w-[500px] rounded-3xl px-2 shadow-xl"
             />
           </div>
         </div>
@@ -77,7 +77,7 @@ const Conveyor = () => {
               transition={{ duration: 1 }}
               src="/images/machinery/conveyor-2.jpg"
               alt="conveyer-2"
-              className="w-[500px] rounded-3xl px-2"
+              className="w-[500px] rounded-3xl px-2 shadow-xl"
             />
           </div>
         </div>

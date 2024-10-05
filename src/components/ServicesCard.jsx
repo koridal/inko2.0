@@ -10,7 +10,7 @@ const ServicesCard = () => {
               <div className="service-img construction">
               </div>
               <div className="service-content">
-                <img alt="city" src="/images/homeimage/city.svg" width={20} height={20} />
+                <img alt="city" src="/images/homeImage/city.svg" width={20} height={20} />
                 <h3 className='text-[#1f1c0c]'>Construction</h3>
                 <p className='text-[#1f1c0c]'>
 									Construction design and building <br />
@@ -27,7 +27,7 @@ const ServicesCard = () => {
               <div className="service-img fire-fighting">
               </div>
               <div className="service-content">
-                <img alt="fire-fighting" src="/images/homeimage/fire-fighting.svg" width={20} height={20}/>
+                <img alt="fire-fighting" src="/images/homeImage/fire-fighting.svg" width={20} height={20}/>
                 <h3 className='text-[#1f1c0c]'>Fire-fighting Equipment</h3>
                 <p className='text-[#1f1c0c]'>
 									Fire fighting facility design and construction <br />
@@ -48,7 +48,7 @@ const ServicesCard = () => {
               <div className="service-img machinery">
               </div>
               <div className="service-content">
-                <img alt="machine" src="/images/homeimage/machine.svg" width={20} height={20}/>
+                <img alt="machine" src="/images/homeImage/machine.svg" width={20} height={20}/>
                 <h3 className='text-[#1f1c0c]'>Machinery</h3>
                 <p className='text-[#1f1c0c]'>
                   Machinery design and construction <br />
@@ -67,7 +67,7 @@ const ServicesCard = () => {
               <div className="service-img electric">
               </div>
               <div className="service-content">
-                <img alt="s1" src="/images/homeimage/electric.svg" width={20} height={20}/>
+                <img alt="s1" src="/images/homeImage/electric.svg" width={20} height={20}/>
                 <h3 className='text-[#1f1c0c]'>Electrical Equipment</h3>
                 <p className='text-[#1f1c0c]'>
                   Electrical facility design and construction <br /> 
