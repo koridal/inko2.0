@@ -2,25 +2,25 @@ import MarqueeItem from "./MarqueeItem";
 
 const Marquee = () => {
   const upperMarquee = [
-    '/images/homeimage/seoil.jpg',
-    '/images/homeimage/samjin.jpg',
-    '/images/homeimage/cjfoods.jpg',
-    '/images/homeimage/dhi.jpg',
-    '/images/homeimage/cheil.jpg',
-    '/images/homeimage/posco.jpg',
-    '/images/homeimage/hansae.jpg',
-    '/images/homeimage/juahn.jpg',
+    '/images/homeImage/seoil.jpg',
+    '/images/homeImage/samjin.jpg',
+    '/images/homeImage/cjfoods.jpg',
+    '/images/homeImage/dhi.jpg',
+    '/images/homeImage/cheil.jpg',
+    '/images/homeImage/posco.jpg',
+    '/images/homeImage/hansae.jpg',
+    '/images/homeImage/juahn.jpg',
   ];
 
   const lowerMarquee = [
-    '/images/homeimage/lgelec.jpg',
-    '/images/homeimage/saea.jpg',
-    '/images/homeimage/samick.jpg',
-    '/images/homeimage/ceramic.jpg',
-    '/images/homeimage/hankook.jpg',
-    '/images/homeimage/bumjin.jpg',
-    '/images/homeimage/wintex.jpg',
-    '/images/homeimage/pan.jpg',
+    '/images/homeImage/lgelec.jpg',
+    '/images/homeImage/saea.jpg',
+    '/images/homeImage/samick.jpg',
+    '/images/homeImage/ceramic.jpg',
+    '/images/homeImage/hankook.jpg',
+    '/images/homeImage/bumjin.jpg',
+    '/images/homeImage/wintex.jpg',
+    '/images/homeImage/pan.jpg',
   ];
 
   return (
